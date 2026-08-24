@@ -6,6 +6,10 @@ This project is an interactive **Olympics Data Analysis Dashboard** created usin
 
 The dashboard analyzes Olympic data to identify trends and insights related to athletes, countries, medals, sports, and participation.
 
+## 📊 Dashboard Preview
+
+![Olympics Dashboard](image.png)
+
 ## 🛠️ Tools & Technologies
 
 * Tableau
